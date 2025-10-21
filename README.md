@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there, I'm Khue (Jennifer) Ha</b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBsamE4OGExc2J4aHk4eDh3d3M1b3UyYnFxMGJ3cHNvOGxtMWU0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scGEXUBdf7G48/giphy.gif" width="80"></h1>
+<h1 align="center"><b>Hi there, I'm Khue (Jennifer) Ha</b><img src="<div class="tenor-gif-embed" data-postid="14322012650487993527" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/roy-leops-roy-leops-gojo-waving-gif-14322012650487993527">Roy Leops GIF</a>from <a href="https://tenor.com/search/roy-gifs">Roy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="100"></h1>
 
 Driven Software Engineer with experience in Full-Stack Application Development, API Integration, and System Automation. I love building end-to-end applications and optimizing performance, from the database layer up to the UI.
 
